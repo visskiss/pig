@@ -1,6 +1,16 @@
 the PIG - P2P Infrastructure Group
 __________________________________
 
+
+Project Aim
+___________
+
+The PIG project aim is to develop a new P2P (peer to peer) protocol and working implementation.  The protocol development will allow third parties to interact with the PIG network.  The implementation will be a proof of concept and will initially provide a P2P messaging service.
+
+
+
+History
+_______
 the PIG started out early morning French time on the Thurdsay the 9th of December 2010 in direct response to the wikileaks events.
 
 Two problems were isolated: 
@@ -21,3 +31,4 @@ And so, the PIG was born.
 
 --------
 
+Docs folder are for project development docs
